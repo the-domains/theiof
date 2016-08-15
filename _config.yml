@@ -1,8 +1,26 @@
-layout_spectrum: 0.3339451
-typography_spectrum: 0.5091656
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4342351
 color:
-  saturation: 0.6653588
-  lightness: 0.8160908
-  brandStrength: 0.0237483
-  rhythmicContrast: 0.1596555
+  saturation: 0.9057836
+  lightness: 0.2929105
+  brandStrength: 1
+  brandColors:
+    - '#ADC347'
+    - '#FFFFFF'
+    - '#262A15'
+    - '#CED992'
+    - '#EFF3D8'
+  rhythmicContrast: 0.08442164
+layout_spectrum: 0.1786381
 name: theiof
