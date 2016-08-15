@@ -1,0 +1,14 @@
+layout_spectrum: 0.3339451
+typography_spectrum: 0.5091656
+color:
+  saturation: 0.6653588
+  lightness: 0.8160908
+  brandStrength: 0.0237483
+  rhythmicContrast: 0.1596555
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Theiof
